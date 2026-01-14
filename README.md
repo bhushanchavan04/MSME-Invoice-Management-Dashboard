@@ -5,7 +5,7 @@ The application helps MSME business owners track invoices, payments, overdue amo
 
 
 🔗 Deployed URL:  
-[https://effortless-pie-fee076.netlify.app/](https://effortless-pie-fee076.netlify.app/)
+[https://effortless-pie-fee076.netlify.app/](https://msme-invoice-management-dashboard-seven.vercel.app/)
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -23,8 +23,8 @@ Setup & Run Locally
 
  1️ Clone the Repository
     bash
-    git clone https://github.com/bhushanchavan13/msme-invoice-dashboard.git
-    cd msme-invoice-dashboard
+    git clone https://github.com/bhushanchavan13/MSME-Invoice-Management-Dashbard.git
+    cd MSME-Invoice-Management-Dashbard
 
 
  2️ Install Dependencies
