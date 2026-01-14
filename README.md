@@ -1,11 +1,11 @@
- MSME Invoice Management Dashboard
+MSME Invoice Management Dashboard
 
 A production-ready React.js + Tailwind CSS dashboard built as part of the QistonPe Front-End Developer Intern Assignment. 
 The application helps MSME business owners track invoices, payments, overdue amounts, and cash flow efficiently.
 
 
 🔗 Deployed URL:  
-[https://effortless-pie-fee076.netlify.app/](https://msme-invoice-management-dashboard-seven.vercel.app/)
+[https://msme-invoice-management-dashboard-seven.vercel.app/](https://msme-invoice-management-dashboard-seven.vercel.app/)
 
 ---------------------------------------------------------------------------------------------------------
 
