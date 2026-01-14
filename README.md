@@ -7,9 +7,6 @@ The application helps MSME business owners track invoices, payments, overdue amo
 🔗 Deployed URL:  
 [https://effortless-pie-fee076.netlify.app/](https://effortless-pie-fee076.netlify.app/)
 
-🔗 GitHub Repository:  
-[https://github.com/bhushanchasvan13/msme-invoice-dashboard](https://github.com/bhushanchavan13/msme-invoice-dashboard)
-
 ---------------------------------------------------------------------------------------------------------
 
 Tech Stack
